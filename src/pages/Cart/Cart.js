@@ -38,6 +38,7 @@ export const Cart = () => {
               </div>
             );
           }
+          return null;
         })}
         <div className="cart-bottom">
           <div className="cart-total">
